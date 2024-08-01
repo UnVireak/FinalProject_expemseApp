@@ -1,0 +1,6 @@
+framework module SKFontAwesomeIconPickerView {
+  umbrella header "SKFontAwesomeIconPickerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
